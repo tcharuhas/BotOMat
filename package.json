@@ -21,7 +21,7 @@
     "@syncfusion/ej2-vue-grids": "^17.1.51",
     "ag-grid-community": "^19.0.0",
     "ag-grid-vue": "^19.0.0",
-    "axios": "^0.15.3",
+    "axios": "^0.19.0",
     "core-js": "^2.5.3",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
